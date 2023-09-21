@@ -1,0 +1,11 @@
+---
+title: "Data Manipulation"
+author: "Madison Goldrich"
+date: "2023-09-21"
+output: github_document
+---
+
+```{r}
+library(tidyverse)
+```
+
